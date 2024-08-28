@@ -1,7 +1,1 @@
-TicketApp is a .NET Core RESTful API project designed to streamline reservations for local train travel. This application allows customers to book tickets online and obtain digital receipts, which they can print as proof for traveling. The project is built using Entity Framework and MS SQL to implement business rules. This project is in continuous improvement, were I implement new features and practices I learn.
-Technologies Used:
-•	.NET Core 7.0
-•	C#
-•	Entity Framework Core
-•	MS SQL Server
-•	SwaggerUI
+TicketApp is a ASP.NET Core RESTful API project designed to streamline the reservation process for local train travel. Developed using modern technologies including ASP.NET Core, C#, Entity Framework Core, and MS SQL Server, this API provides a backend for managing train schedules, seat availability, and customer bookings.. This project is in continuous improvement, were I implement new features and practices I learn.
