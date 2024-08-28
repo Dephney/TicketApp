@@ -1,0 +1,15 @@
+C:\Users\Dephneym\Desktop\TicketingSystem\TicketApp.Core\bin\Debug\net8.0\TicketApp.Core.deps.json
+C:\Users\Dephneym\Desktop\TicketingSystem\TicketApp.Core\bin\Debug\net8.0\TicketApp.Core.runtimeconfig.json
+C:\Users\Dephneym\Desktop\TicketingSystem\TicketApp.Core\bin\Debug\net8.0\TicketApp.Core.dll
+C:\Users\Dephneym\Desktop\TicketingSystem\TicketApp.Core\bin\Debug\net8.0\TicketApp.Core.pdb
+C:\Users\Dephneym\Desktop\TicketingSystem\TicketApp.Core\obj\Debug\net8.0\TicketApp.Core.csproj.AssemblyReference.cache
+C:\Users\Dephneym\Desktop\TicketingSystem\TicketApp.Core\obj\Debug\net8.0\TicketApp.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dephneym\Desktop\TicketingSystem\TicketApp.Core\obj\Debug\net8.0\TicketApp.Core.AssemblyInfoInputs.cache
+C:\Users\Dephneym\Desktop\TicketingSystem\TicketApp.Core\obj\Debug\net8.0\TicketApp.Core.AssemblyInfo.cs
+C:\Users\Dephneym\Desktop\TicketingSystem\TicketApp.Core\obj\Debug\net8.0\TicketApp.Core.csproj.CoreCompileInputs.cache
+C:\Users\Dephneym\Desktop\TicketingSystem\TicketApp.Core\obj\Debug\net8.0\TicketApp.Core.sourcelink.json
+C:\Users\Dephneym\Desktop\TicketingSystem\TicketApp.Core\obj\Debug\net8.0\TicketApp.Core.dll
+C:\Users\Dephneym\Desktop\TicketingSystem\TicketApp.Core\obj\Debug\net8.0\refint\TicketApp.Core.dll
+C:\Users\Dephneym\Desktop\TicketingSystem\TicketApp.Core\obj\Debug\net8.0\TicketApp.Core.pdb
+C:\Users\Dephneym\Desktop\TicketingSystem\TicketApp.Core\obj\Debug\net8.0\TicketApp.Core.genruntimeconfig.cache
+C:\Users\Dephneym\Desktop\TicketingSystem\TicketApp.Core\obj\Debug\net8.0\ref\TicketApp.Core.dll
